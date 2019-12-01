@@ -1,0 +1,3 @@
+# npx-profile
+
+$ ```npx anothercoder```
