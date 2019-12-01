@@ -1,0 +1,16 @@
+{
+  "name": "anothercoder",
+  "version": "1.0.2",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "anothercoder": "./index.js"
+  },
+  "keywords": [
+    "chaitanya deorukhkar",
+    "profile",
+    "package"
+  ],
+  "author": "Chaitanya Deorukhkar",
+  "license": "ISC"
+}
